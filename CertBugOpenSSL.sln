@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CertBugOpenSSL", "CertBugOpenSSL.csproj", "{AA322CDC-DA4B-647B-F9F8-33EC8DE950B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA322CDC-DA4B-647B-F9F8-33EC8DE950B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA322CDC-DA4B-647B-F9F8-33EC8DE950B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA322CDC-DA4B-647B-F9F8-33EC8DE950B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA322CDC-DA4B-647B-F9F8-33EC8DE950B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFCA0FA0-AD63-4CF4-A15F-544C5B527A8C}
+	EndGlobalSection
+EndGlobal
